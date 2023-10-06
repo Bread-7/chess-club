@@ -1,1 +1,1 @@
-# chess-club.github.io
+# Chess Club
