@@ -8,7 +8,8 @@ function isTuesdayAndTimeInRange() {
   }
   
   
-  if(true){
+  // if(true){
+  if(isTuesdayAndTimeInRange()){
     var squares = document.querySelectorAll(".square");
     var board = document.querySelector(".board");
     var wrap = document.querySelector(".wrap");
